@@ -25,15 +25,16 @@
      showgrid="true"
      units="pt"
      width="360pt"
-     inkscape:zoom="0.67081229"
-     inkscape:cx="87.207705"
-     inkscape:cy="600.01882"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="247.18769"
+     inkscape:cy="364.19338"
      inkscape:window-width="1920"
      inkscape:window-height="1035"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g5807"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid6803" />
@@ -323,7 +324,8 @@
           <g
              id="g5809" />
           <g
-             id="g5823">
+             id="g5823"
+             transform="matrix(1.0497971,0,0,0.99952711,-0.13915035,0.03837368)">
             <g
                clip-path="url(#clipPath5813)"
                opacity="0.2471"
@@ -345,7 +347,7 @@
         </g>
         <g
            id="g5825"
-           transform="matrix(2.9985754,0,0,2.9985754,-3506.834,1.4992877)">
+           transform="matrix(3.1521349,0,0,2.9985754,-3790.9192,1.4992877)">
           <path
              d="m 1851,218.25 h 198 c 0.2761,0 0.5117,0.0976 0.707,0.29288 0.1951,0.19526 0.2928,0.43097 0.293,0.70712 v 49.5 c -2e-4,0.27615 -0.098,0.51184 -0.293,0.70709 -0.1953,0.19528 -0.4309,0.29291 -0.707,0.29291 h -198 c -0.2762,0 -0.5121,-0.0976 -0.7073,-0.29291 -0.1952,-0.19525 -0.2928,-0.43094 -0.2927,-0.70709 v -49.5 c -10e-5,-0.27615 0.098,-0.51186 0.2927,-0.70712 0.1952,-0.19525 0.4311,-0.29288 0.7073,-0.29288 z"
              style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
